@@ -39,3 +39,31 @@ The dashboard enables businesses to monitor sales performance, analyze customer 
 Retail businesses generate large volumes of sales data every day. However, raw data alone does not provide meaningful insights for decision-making.
 
 The objective of this project is to transform raw retail sales data into an interactive Business Intelligence solution that helps stakeholders monitor performance, identify trends, evaluate key business metrics, and make data-driven decisions.
+
+## 🎯 Project Objectives
+
+- Develop an interactive Business Intelligence dashboard for retail sales analysis.
+- Analyze sales, profit, customer, product, and store performance.
+- Monitor key business KPIs through dynamic visualizations.
+- Enable interactive filtering and drill-down analysis.
+- Support data-driven decision-making using DAX calculations and Power BI.
+- Present business insights in a clear and visually appealing format.
+
+- ## ⭐ Data Model
+
+The project follows a **Star Schema** data model to ensure efficient data organization and analytical performance.
+
+### Fact Table
+- Fact_Sales
+
+### Dimension Tables
+- Dim_Product
+- Dim_Customer
+- Dim_Store
+- Dim_Date
+- Dim_Promotion
+- Dim_Inventory
+
+The Star Schema enables faster query performance, simplified relationships, and scalable business reporting.
+
+
