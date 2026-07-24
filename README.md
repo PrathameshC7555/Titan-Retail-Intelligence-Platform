@@ -6,7 +6,8 @@ An interactive Power BI dashboard for retail sales analysis using data modeling,
   🚧 Project Banner Coming Soon 🚧
 </p>
 >
-> ## 📌 Project Overview
+
+## 📌 Project Overview
 
 Titan Retail Intelligence Platform is an end-to-end Business Intelligence project developed using Microsoft Power BI. The project transforms retail sales data into meaningful business insights through interactive dashboards, data modeling, and DAX calculations.
 
@@ -19,3 +20,16 @@ The dashboard enables businesses to monitor sales performance, analyze customer 
 - **Data Modeling:** Star Schema
 - **Language:** DAX (Data Analysis Expressions)
 - **Dataset Format:** Microsoft Excel (.xlsx)
+
+## ✨ Project Features
+
+- 📊 Interactive Power BI dashboards
+- 📈 Sales and profit performance analysis
+- 📦 Product and brand performance insights
+- 👥 Customer behavior analysis
+- 🏪 Store and regional performance tracking
+- 📣 Marketing campaign performance evaluation
+- 📦 Inventory monitoring and analysis
+- 📅 Time intelligence using MTD, YTD, MoM, and YoY metrics
+- 📉 Business forecasting and trend analysis
+- 🎯 Interactive slicers and cross-filtering
