@@ -33,3 +33,9 @@ The dashboard enables businesses to monitor sales performance, analyze customer 
 - 📅 Time intelligence using MTD, YTD, MoM, and YoY metrics
 - 📉 Business forecasting and trend analysis
 - 🎯 Interactive slicers and cross-filtering
+
+## 🎯 Business Problem
+
+Retail businesses generate large volumes of sales data every day. However, raw data alone does not provide meaningful insights for decision-making.
+
+The objective of this project is to transform raw retail sales data into an interactive Business Intelligence solution that helps stakeholders monitor performance, identify trends, evaluate key business metrics, and make data-driven decisions.
