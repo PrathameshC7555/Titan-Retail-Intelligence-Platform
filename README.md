@@ -49,7 +49,7 @@ The objective of this project is to transform raw retail sales data into an inte
 - Support data-driven decision-making using DAX calculations and Power BI.
 - Present business insights in a clear and visually appealing format.
 
-- ## ⭐ Data Model
+## ⭐ Data Model
 
 The project follows a **Star Schema** data model to ensure efficient data organization and analytical performance.
 
