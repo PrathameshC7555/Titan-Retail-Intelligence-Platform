@@ -123,17 +123,45 @@ Overall, the project includes **33+ DAX measures** that enable dynamic KPI track
 
 ## 📷 Dashboard Preview
 
-Dashboard previews will be available after project assets are uploaded.
+### 🏆 Executive Dashboard
 
-The repository includes previews of:
+![Executive Dashboard](Images/Executive_Dashboard.png)
 
-- Executive Dashboard
-- Product Performance
-- Customer Insights
-- Store Performance
-- Inventory Analysis
-- Marketing Performance
-- Business Forecast
+---
+
+### 📦 Product Performance
+
+![Product Performance](Images/Product_Performance.png)
+
+---
+
+### 👥 Customer Insights
+
+![Customer Insights](Images/Customer_Insights.png)
+
+---
+
+### 🏪 Store Performance
+
+![Store Performance](Images/Store_Performance.png)
+
+---
+
+### 📦 Inventory Analysis
+
+![Inventory Analysis](Images/Inventory_Analysis.png)
+
+---
+
+### 📣 Marketing Performance
+
+![Marketing Performance](Images/Marketing_Performance.png)
+
+---
+
+### 📈 Business Forecast
+
+![Business Forecast](Images/Business_Forecast.png)
 
 ## 💡 Business Insights
 
