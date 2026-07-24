@@ -163,6 +163,12 @@ Overall, the project includes **33+ DAX measures** that enable dynamic KPI track
 
 ![Business Forecast](Images/Business_Forecast.png)
 
+## 🎥 Dashboard Demo
+
+Watch the dashboard walkthrough to explore the interactive features and business insights.
+
+📹 **Demo Video:** [Titan Retail Intelligence Platform Demo](Demo/Titan_Dashboard_Demo.mp4)
+
 ## 💡 Business Insights
 
 The dashboard enables decision-makers to gain actionable insights, including:
