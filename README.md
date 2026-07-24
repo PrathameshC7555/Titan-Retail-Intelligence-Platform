@@ -121,6 +121,12 @@ Some of the important measures include:
 
 Overall, the project includes **33+ DAX measures** that enable dynamic KPI tracking and advanced business analysis.
 
+## 🎥 Dashboard Demo
+
+Watch the dashboard walkthrough to explore the interactive features and business insights.
+
+📹 **Demo Video:** [Titan Retail Intelligence Platform Demo](Demo/Titan_Dashboard_Demo.mp4)
+
 ## 📷 Dashboard Preview
 
 ### 🏆 Executive Dashboard
@@ -163,11 +169,7 @@ Overall, the project includes **33+ DAX measures** that enable dynamic KPI track
 
 ![Business Forecast](Images/Business_Forecast.png)
 
-## 🎥 Dashboard Demo
 
-Watch the dashboard walkthrough to explore the interactive features and business insights.
-
-📹 **Demo Video:** [Titan Retail Intelligence Platform Demo](Demo/Titan_Dashboard_Demo.mp4)
 
 ## 💡 Business Insights
 
