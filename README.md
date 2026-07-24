@@ -2,10 +2,10 @@
 
 An interactive Power BI dashboard for retail sales analysis using data modeling, DAX, and business intelligence techniques.
 
-> <p align="center">
+<p align="center">
   🚧 Project Banner Coming Soon 🚧
 </p>
->
+
 
 ## 📌 Project Overview
 
@@ -91,3 +91,98 @@ Measures promotion effectiveness, discount impact, campaign performance, and mar
 ### 7. Business Forecast
 Provides future sales forecasting and trend analysis to support strategic business planning.
 
+## 📈 Key DAX Measures
+
+The dashboard leverages DAX (Data Analysis Expressions) to calculate key business metrics and support interactive reporting.
+
+Some of the important measures include:
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Customers
+- Total Quantity Sold
+- Average Order Value (AOV)
+- Average Selling Price (ASP)
+- Profit Margin %
+- Revenue per Customer
+- Total Products Sold
+- Total Brands
+- Promotion Sales %
+- Average Discount %
+- Store Contribution %
+- Return Rate %
+- Month-to-Date (MTD) Sales
+- Year-to-Date (YTD) Sales
+- Previous Month Sales
+- Previous Year Sales
+- Month-over-Month (MoM) Growth
+- Year-over-Year (YoY) Growth
+
+Overall, the project includes **33+ DAX measures** that enable dynamic KPI tracking and advanced business analysis.
+
+## 📷 Dashboard Preview
+
+Dashboard previews will be available after project assets are uploaded.
+
+The repository includes previews of:
+
+- Executive Dashboard
+- Product Performance
+- Customer Insights
+- Store Performance
+- Inventory Analysis
+- Marketing Performance
+- Business Forecast
+
+## 💡 Business Insights
+
+The dashboard enables decision-makers to gain actionable insights, including:
+
+- Which products generate the highest revenue?
+- Which stores contribute the most to overall sales?
+- Which customer segments are most valuable?
+- Which marketing campaigns perform best?
+- What are the monthly and yearly sales trends?
+- Which payment methods are preferred by customers?
+- How effectively is inventory being managed?
+- What future sales trends can be expected?
+
+## 🚀 How to Explore the Project
+
+1. Open the dashboard screenshots to explore the report pages.
+2. Watch the demo video to see the dashboard in action.
+3. Download the Power BI (.pbix) file to interact with the report.
+4. Review the dataset and presentation for additional project details.
+
+## 🔮 Future Enhancements
+
+Potential improvements for future versions include:
+
+Real-time Data Integration
+
+Automated Data Refresh
+
+Cloud Deployment
+
+Row-Level Security (RLS)
+
+Mobile Dashboard Optimization
+
+AI-driven Insights
+
+## 🙏 Acknowledgements
+
+This project was developed as part of my Data Analyst learning journey to apply Business Intelligence concepts using Microsoft Power BI. It demonstrates practical skills in data modeling, DAX, visualization, and business analytics through an end-to-end retail sales analysis project.
+
+## 👨‍💻 Author
+
+**Prathamesh Choudhary**
+
+Data Analyst | Power BI | SQL | Excel | Python
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+## 📜 License
+
+This project is licensed under the MIT License.
