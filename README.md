@@ -66,4 +66,28 @@ The project follows a **Star Schema** data model to ensure efficient data organi
 
 The Star Schema enables faster query performance, simplified relationships, and scalable business reporting.
 
+## 📊 Dashboard Pages
+
+The Titan Retail Intelligence Platform consists of **7 interactive dashboard pages**, each designed to analyze a specific aspect of the retail business.
+
+### 1. Executive Dashboard
+Provides an overview of key business KPIs including Total Sales, Total Profit, Orders, Customers, and overall business performance.
+
+### 2. Product Performance
+Analyzes product, brand, and category performance to identify top and bottom-performing products.
+
+### 3. Customer Insights
+Explores customer demographics, purchasing behavior, payment preferences, and customer contribution to sales.
+
+### 4. Store Performance
+Evaluates store-wise and regional performance using sales, profit, and operational KPIs.
+
+### 5. Inventory Analysis
+Monitors inventory levels, stock availability, reorder requirements, and product movement.
+
+### 6. Marketing Performance
+Measures promotion effectiveness, discount impact, campaign performance, and marketing contribution.
+
+### 7. Business Forecast
+Provides future sales forecasting and trend analysis to support strategic business planning.
 
