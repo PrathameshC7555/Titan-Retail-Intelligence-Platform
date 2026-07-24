@@ -3,7 +3,7 @@
 An interactive Power BI dashboard for retail sales analysis using data modeling, DAX, and business intelligence techniques.
 
 <p align="center">
-  🚧 Project Banner Coming Soon 🚧
+  <img src="Images/Banner.png" alt="Titan Retail Intelligence Platform Banner" width="100%">
 </p>
 
 
